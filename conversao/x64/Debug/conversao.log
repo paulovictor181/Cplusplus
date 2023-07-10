@@ -1,0 +1,3 @@
+﻿  Convercao.cpp
+C:\Users\paulo\Projetos\Cplusplus\conversao\Convercao.cpp(10,14): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  conversao.vcxproj -> C:\Users\paulo\Projetos\Cplusplus\conversao\x64\Debug\conversao.exe
